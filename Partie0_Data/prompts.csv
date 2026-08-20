@@ -1,0 +1,26 @@
+prompt_id,domain,prompt_text
+P01,news,Write a short news explainer about how electric car batteries are recycled.
+P02,news,Write a short news explainer about what causes inflation in simple terms.
+P03,news,Write a short news explainer about how vaccines are approved before public use.
+P04,news,Write a short news explainer about why coral reefs are dying and what it means.
+P05,news,Write a short news explainer about how a bill becomes a law.
+P06,opinion,Write an opinion piece arguing whether social media does more harm than good.
+P07,opinion,Write an opinion piece on whether remote work should become the default.
+P08,opinion,Write an opinion piece about whether homework should be abolished in schools.
+P09,opinion,Write an opinion piece on whether cities should ban private cars from centers.
+P10,opinion,Write an opinion piece about whether AI art counts as real art.
+P11,review,Write a customer review of a mid-range wireless headphone you bought online.
+P12,review,Write a restaurant review of a small family-run Italian place downtown.
+P13,review,Write a review of a budget smartphone focusing on battery and camera.
+P14,review,Write a review of a hotel stay for a weekend city trip.
+P15,review,Write a review of a fantasy novel you recently finished.
+P16,story,Write a short story about a lighthouse keeper who receives a strange letter.
+P17,story,Write a short story about the last day of summer in a small town.
+P18,story,Write a short story about a robot learning to cook for the first time.
+P19,story,Write a short story about two strangers stuck in an elevator.
+P20,story,Write a short story about a child who finds a door that was not there before.
+P21,howto,Explain how to make a simple homemade pizza from scratch.
+P22,howto,Explain how to set up a basic weekly budget for a student.
+P23,howto,Explain how to start running for a complete beginner.
+P24,howto,Explain how photosynthesis works to a curious 12-year-old.
+P25,howto,Explain how to prepare for a job interview in a week.

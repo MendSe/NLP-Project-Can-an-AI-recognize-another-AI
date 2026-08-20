@@ -1,0 +1,4 @@
+provider,judge_model,include_domain,texts,mean_successful_repetitions,mean_agreement_with_aggregate,unanimous_text_rate
+gemini,gemini-3.5-flash-lite,False,49,2.9591836734693877,0.8435374149659864,0.6938775510204082
+openai,gpt-5.6-luna,False,50,3.0,0.64,0.28
+openai,gpt-5.6-terra,False,50,3.0,0.72,0.4
